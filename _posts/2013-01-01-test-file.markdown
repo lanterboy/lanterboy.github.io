@@ -2,7 +2,7 @@
 layout: post
 title:  "测试文件"
 date:   2013-01-01 15:16:26 +0800
-categories: 表情 标签
+categories: jekyll update
 
 ---
 
