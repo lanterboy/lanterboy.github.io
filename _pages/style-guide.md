@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: 样式示例
 image: '/images/pages/styleguide.jpg'
 ---
 
