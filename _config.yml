@@ -28,7 +28,7 @@ twitter_username: lanterboy
 github_username:  lanterboy
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
