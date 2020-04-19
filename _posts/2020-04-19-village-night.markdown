@@ -1,0 +1,9 @@
+---
+layout: post
+title: 村夜
+---
+
+霜草苍苍虫切切，村南村北行人绝。
+独出门前望野田，月明荞麦花如雪。
+
+![little-forest](/images/posts/little-forest.webp)
