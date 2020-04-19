@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 样式示例
-image: '/images/pages/styleguide.jpg'
 ---
 
 At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
@@ -85,7 +84,7 @@ Cras sed sodales enim. Duis nec erat magna. Sed scelerisque pretium mi et [unspl
 
 ---
 
-![about](/images/pages/about.jpeg)
+[![kylinleeRGBnoise_scaleLevel2x2.000000.md.jpg](https://wx1.sbimg.cn/2020/04/19/kylinleeRGBnoise_scaleLevel2x2.000000.md.jpg)](https://sbimg.cn/image/M1LFa)
 
 ---
 
