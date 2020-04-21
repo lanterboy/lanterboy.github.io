@@ -84,10 +84,6 @@ Cras sed sodales enim. Duis nec erat magna. Sed scelerisque pretium mi et [unspl
 
 ---
 
-[![kylinleeRGBnoise_scaleLevel2x2.000000.md.jpg](https://wx1.sbimg.cn/2020/04/19/kylinleeRGBnoise_scaleLevel2x2.000000.md.jpg)](https://sbimg.cn/image/M1LFa)
-
----
-
 <input type="text" placeholder="I'm an input field!">
 
 ---
