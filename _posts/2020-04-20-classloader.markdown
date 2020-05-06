@@ -43,7 +43,7 @@ public static void main(String[] args) throws ClassNotFoundException {
 }
 ```
 
-
+ 
 
 `B` 类的代码如下
 
@@ -62,7 +62,7 @@ public class B {
 }
 ```
 
-
+ 
 
 我们使用 `A` 类的类加载器预加载了 `B` 类，这时还没有使用它，因此并不会立即报错。通过上述的 `-XX:+TraceClassLoading` 参数执行该段代码，输出如下
 
